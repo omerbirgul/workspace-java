@@ -6,7 +6,7 @@ public class KullanıcıGirişi {
         Scanner scanner = new Scanner(System.in);
         
         int girishakkı = 3;
-        String sys_kullanıcı ="Omer";
+        String sys_kullanıcı ="Omer ";
         String sys_parola ="1234";
         
         System.out.println("**************************");
